@@ -1,0 +1,2 @@
+function :say_hi data : 2023-02-02 18:52:37.316577 returned:None args :() kwargs : {} 
+function :add data : 2023-02-02 18:52:37.316827 returned:5 args :(2, 3) kwargs : {} 

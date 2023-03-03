@@ -1,0 +1,7 @@
+[ERRORs]something goes wrong
+[ERRORs]something goes wrong
+[WARNING]something goes wrong
+[CRITICAL]this is an critical error 
+[CRITICAL]this is an critical error 
+[CRITICAL]this is an critical error 
+[CRITICAL]this is an critical error 

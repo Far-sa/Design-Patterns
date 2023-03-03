@@ -1,0 +1,2 @@
+[CRITICAL]this is an critical message 
+[WARNING]this is an warning message 
